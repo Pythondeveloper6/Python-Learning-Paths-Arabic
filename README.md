@@ -50,7 +50,7 @@ Python Basics :
       - Youtube Link : https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e
       
  ----------------------------------------------------------
-  Python Web Development With Django [Build Job Board Website] : 
+ Python Web Development With Django [Build Job Board Website] : 
     - Django 3 Basics : 
         - Django Intro 
         - How Django Works 
