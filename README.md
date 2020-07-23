@@ -1,6 +1,12 @@
 # Python-Learning-Paths-Arabic
 arabic python tutorials on YouTube , with learning paths 
 
+### Before Learning :
+  - [How To Study From The Channel](https://www.youtube.com/watch?v=XMW2bR8M3-U&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=2&t=0s)
+  - [How To Study Programming](https://www.youtube.com/watch?v=41romDiVwxE&list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0&index=4&t=212s)
+  - [Install Python On Your Machine](https://www.youtube.com/watch?v=2Cfd7qQcyTg&list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE&index=4&t=0s)
+
+
 ### Python Basics :
   - [Basics Part 1](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE) 
   - [Basics Part 2](https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA) 
@@ -35,11 +41,23 @@ arabic python tutorials on YouTube , with learning paths
   - [Python With MySql](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
   
   
+### Python & Django Advanced : 
+  - [Python Intermediate](https://www.youtube.com/playlist?list=PLtGOJcWqvbqelKFYvZ1_J7hJtyG5TxQAX)
+  
 ### Learn In Single Video : 
   - [Learn Python Basics Part 1](https://www.youtube.com/watch?v=EofFlcv5vpY&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=2&t=0s)
   - [Learn Python Basics Part 2](https://www.youtube.com/watch?v=jAtsPIPJirc&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=3&t=0s)
   - [Learn Python Basics Part 3](https://www.youtube.com/watch?v=5yXm3_i91Y8&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=4&t=0s)
   - [Learn Python Basics Part 4](https://www.youtube.com/watch?v=7Rl6gCbETBQ&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=5&t=0s)
+  - [Design Desktop Application With Qt Designer](https://www.youtube.com/watch?v=V1dzBR4B5J0&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=6&t=0s)
+  - [Django 3 Basics - Build Job Board Website](https://www.youtube.com/watch?v=GVLrt9604vg&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=13&t=601s)
+  - [Python With MySql](https://www.youtube.com/watch?v=0ZuTEmfe218&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=10&t=0s)
+  - [Deploy Django On DigitalOcean](https://www.youtube.com/watch?v=COX-1dopn14&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=8&t=0s)
+  - [Build Full Download Manager With Python & PyQt5](https://www.youtube.com/watch?v=Q6g1GkbWW5g&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=9&t=0s)
+  
+
+### Vlogs
+  - [VS Codes I Use For Python & Django ](https://www.youtube.com/watch?v=0UGsLOFW8IE&list=PLtGOJcWqvbqf_c2bKPhswbjsM3HJeURth&index=2&t=0s)
       
       
       
