@@ -16,6 +16,7 @@ arabic python tutorials on YouTube , with learning paths
       
 
 ### Python Web Development With Django: 
+   - [Working With Virtualenv On Windows](https://www.youtube.com/watch?v=iH_W-OYCzaQ&list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ&index=2)
    - [Django 3 Basics](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6)   
    - [Build Vezeeta Website With Django](https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn)
    - [Build E-Commerce Website With Django](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg)
