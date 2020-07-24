@@ -59,8 +59,38 @@ arabic python tutorials on YouTube , with learning paths
 
 ### Vlogs
   - [VS Codes I Use For Python & Django ](https://www.youtube.com/watch?v=0UGsLOFW8IE&list=PLtGOJcWqvbqf_c2bKPhswbjsM3HJeURth&index=2&t=0s)
-      
-      
+  
+  
+### Blog 
+   - [Python List Destructing ](https://code4learn.teachable.com/blog/173947/list-destructing-python-arabic)
+   - [Django Model Design Tips](https://code4learn.teachable.com/blog/170809/djang-models-advices-arabic)
+   - [Django Learning Tips](https://code4learn.teachable.com/blog/170806/django-developers-advices-arabic)
+   - [Python Show Windows Notification](https://code4learn.teachable.com/blog/170773/windows-notification-with-python-arabic)
+   - [Django Class Based Views Introduction](https://code4learn.teachable.com/blog/133451/_-_-_class_based_views)
+   - [Python List Comprehensions](https://code4learn.teachable.com/blog/133450/03e6bd)  
+   - [Python Print VS Return](https://code4learn.teachable.com/blog/133417/bb9a68)
+   - [Python Problem Solving Using Code Academy](https://code4learn.teachable.com/blog/132790/2641bb)
+   - [How To Use Return in Python](https://code4learn.teachable.com/blog/132724/range)  
+   - [Python Conferences](https://code4learn.teachable.com/blog/132231/b97c40)  
+   - [Projects Python Used In ](https://code4learn.teachable.com/blog/132232/1c60e2)
+   - [Python Packages VS Python Modules](https://code4learn.teachable.com/blog/131900/module-package)
+   - [Python Context Manager](https://code4learn.teachable.com/blog/131899/context-manager)  
+   - [Django  Packages Import Tips](https://code4learn.teachable.com/blog/131504/import-tips)
+   - [How To Write Better Python Code](https://code4learn.teachable.com/blog/131503/readable-code)
+   - [Know More About Django Packages Website](https://code4learn.teachable.com/blog/129556/django-packages)
+   - [Enblish For Programming](https://code4learn.teachable.com/blog/129523/b2137c)
+   - [How Django Works](https://code4learn.teachable.com/blog/29500/how-django-works)
+   - [Best Django Text Editor](https://code4learn.teachable.com/blog/29303/django-text-editor-arabic)
+   - [Django COntext Processor](https://code4learn.teachable.com/blog/29302/django-context-processor-arabic)
+   - [Install Odoo](https://code4learn.teachable.com/blog/29312/how-to-install-odoo-arabic)
+   - [Best Django Fields](https://code4learn.teachable.com/blog/29270/important-django-field-arabic)
+   - [Best Django Dashboard](https://code4learn.teachable.com/blog/29269/best-django-admin-dashboard-arabic)
+   - [How To Use Virtualenv](https://code4learn.teachable.com/blog/28149/virtualenv)
+   - [PyQt5 Best Css Styles](https://code4learn.teachable.com/blog/28147/pyqt5-1)
+   - [What You Should Know In Django](https://code4learn.teachable.com/blog/27357/e79a95)
+   - [Python Basics Exercises ](https://code4learn.teachable.com/blog/23428/basics-exercises)
+   - [How To Install PyQt5](https://code4learn.teachable.com/blog/18501/pyqt5)
+   - [Deploy Django Projects On DigitalOcean](https://code4learn.teachable.com/blog/18422/digitalocean)
       
       
       
