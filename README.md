@@ -2,7 +2,7 @@
 arabic python tutorials on YouTube , with learning paths 
 
 ### Before Learning :
-  - [How To Study From The Channel](https://www.youtube.com/watch?v=XMW2bR8M3-U&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=2&t=0s)
+  - [كيفيه المذاكره من علي قناتي](https://www.youtube.com/watch?v=XMW2bR8M3-U&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=2&t=0s)
   - [How To Study Programming](https://www.youtube.com/watch?v=41romDiVwxE&list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0&index=4&t=212s)
   - [Install Python On Your Machine](https://www.youtube.com/watch?v=2Cfd7qQcyTg&list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE&index=4&t=0s)
 
