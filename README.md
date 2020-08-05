@@ -1,17 +1,17 @@
 # Python-Learning-Paths-Arabic
 arabic python tutorials on YouTube , with learning paths 
 
-### Before Learning :
+### قبل بداء التعلم :
   - [كيفيه المذاكره من علي قناتي](https://www.youtube.com/watch?v=XMW2bR8M3-U&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=2&t=0s)
-  - [How To Study Programming](https://www.youtube.com/watch?v=41romDiVwxE&list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0&index=4&t=212s)
-  - [Install Python On Your Machine](https://www.youtube.com/watch?v=2Cfd7qQcyTg&list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE&index=4&t=0s)
+  - [كيفيه مذاكره البرمجه](https://www.youtube.com/watch?v=41romDiVwxE&list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0&index=4&t=212s)
+  - [كيفيه تصطيب بايثون علي الجهاز الخاص بك](https://www.youtube.com/watch?v=2Cfd7qQcyTg&list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE&index=4&t=0s)
 
 
-### Python Basics :
-  - [Basics Part 1](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE) 
-  - [Basics Part 2](https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA) 
-  - [Basics Part 3](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdro121Y1IAbPOydAhyL13a)
-  - [Basics Part 4](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e) : 
+### اساسيات بايثون :
+  - [اساسيات بايثون الجزء الاول](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE) 
+  - [اساسيات بايثون الجزء الثاني](https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA) 
+  - [اساسيات بايثون الجزء الثالث](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdro121Y1IAbPOydAhyL13a)
+  - [اساسيات بايثون الجزء الرابع](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e) : 
 
       
 
