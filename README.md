@@ -15,46 +15,48 @@ arabic python tutorials on YouTube , with learning paths
 
       
 
-### Python Web Development With Django: 
-   - [Working With Virtualenv On Windows](https://www.youtube.com/watch?v=iH_W-OYCzaQ&list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ&index=2)
-   - [Django 3 Basics](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6)   
-   - [Build Vezeeta Website With Django](https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn)
-   - [Build E-Commerce Website With Django](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg)
-   - [Django Class Based Views](https://www.youtube.com/playlist?list=PLtGOJcWqvbqc3cbs0cpSrr1jiGgSbjlik)
-   - [Django Topics](https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1)
-   - [Django Deployment On DigitalOcean](https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT)
+### برمجه المواقع بدجانجو: 
+   - [كيفيه تطيب دجانجو علي الويندوز](https://www.youtube.com/watch?v=iH_W-OYCzaQ&list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ&index=2)
+   - [اساسيات دجانجو ٣](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6)   
+   - [بناء موقع فيزيتا ](https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn)
+   - [بناء متجر الكتروني دجانجو](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg)
+   - [شرح لاستخدام الكلاس في ال view. الخاصه بدجانجو](https://www.youtube.com/playlist?list=PLtGOJcWqvbqc3cbs0cpSrr1jiGgSbjlik)
+   - [مواضيع متفرقه في دجانجو](https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1)
+   - [رفع موقع دجانجو لايف](https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT)
+   - [مواضيع مهمه جدا في دجانجو](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdL0-eCrNKVgEbGPhE868cf)
    
    
    
-### Desktop Application Development With PyQt5 : 
-   - [Build Full Download Manager With PyQt5](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0)
-   - [Design Desktop Applications With QtDesigner](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf0sQkpTQhufQ0nW8rqqG4q)
-   - [Add Auto Complete In PyQt5 Applications](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfkZ6qkdXlGyTAGQLFBEszz)
-   - [Library Management System With Mysql + PyQt5 + Peewee](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z)
-   - [Convert Desktop Applications To exe](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
+### برمجه تطبيقات الديسك توب ببايثون وPyQt5  : 
+   - [برمجه تطبيق لتحميل الفيديوهات والملفات من اليوتيوب](https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0)
+   - [تصميم تطبيقات الديسك توب ب qtdesigner](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf0sQkpTQhufQ0nW8rqqG4q)
+   - [اضافه التكميل التلقاىي في ال pyqt](https://www.youtube.com/playlist?list=PLtGOJcWqvbqfkZ6qkdXlGyTAGQLFBEszz)
+   - [برمجه تطبيق لاداره مكتبه بفروعها - تطبيق ديسك توب وmysql داتا بيز](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z)
+   - [تحويل كود بايثون لملف تصطيب](https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e)
    
    
-### Python Projects : 
-  - [Using Python In Real Life](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdzCjZAcXF02h4cWiPVnpyD)
+### مشاريع بايثون : 
+  - [استخدام البرمجه في حياتنا](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdzCjZAcXF02h4cWiPVnpyD)
   
   
-### Python With Databases : 
-  - [Python With MySql](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
+### التعامل مع الداتابيز ببايثون : 
+  - [بايثون مع الداتابيز](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4)
   
   
-### Python & Django Advanced : 
-  - [Python Intermediate](https://www.youtube.com/playlist?list=PLtGOJcWqvbqelKFYvZ1_J7hJtyG5TxQAX)
+### مستوي متقدم بايثون : 
+  - [بايثون مستوي متوسط](https://www.youtube.com/playlist?list=PLtGOJcWqvbqelKFYvZ1_J7hJtyG5TxQAX)
   
-### Learn In Single Video : 
-  - [Learn Python Basics Part 1](https://www.youtube.com/watch?v=EofFlcv5vpY&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=2&t=0s)
-  - [Learn Python Basics Part 2](https://www.youtube.com/watch?v=jAtsPIPJirc&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=3&t=0s)
-  - [Learn Python Basics Part 3](https://www.youtube.com/watch?v=5yXm3_i91Y8&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=4&t=0s)
-  - [Learn Python Basics Part 4](https://www.youtube.com/watch?v=7Rl6gCbETBQ&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=5&t=0s)
-  - [Design Desktop Application With Qt Designer](https://www.youtube.com/watch?v=V1dzBR4B5J0&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=6&t=0s)
-  - [Django 3 Basics - Build Job Board Website](https://www.youtube.com/watch?v=GVLrt9604vg&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=13&t=601s)
-  - [Python With MySql](https://www.youtube.com/watch?v=0ZuTEmfe218&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=10&t=0s)
-  - [Deploy Django On DigitalOcean](https://www.youtube.com/watch?v=COX-1dopn14&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=8&t=0s)
-  - [Build Full Download Manager With Python & PyQt5](https://www.youtube.com/watch?v=Q6g1GkbWW5g&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=9&t=0s)
+  
+### اتعلم في فيديو واحد : 
+  - [اساسيات بايثون الجزء الاول](https://www.youtube.com/watch?v=EofFlcv5vpY&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=2&t=0s)
+  - [اساسيات بايثون الجزء الثاني](https://www.youtube.com/watch?v=jAtsPIPJirc&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=3&t=0s)
+  - [اساسيات بايثون الجزء الثالث](https://www.youtube.com/watch?v=5yXm3_i91Y8&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=4&t=0s)
+  - [اساسيات بايثون الجزء الرابع](https://www.youtube.com/watch?v=7Rl6gCbETBQ&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=5&t=0s)
+  - [تصميم تطبيقات الديسك توب ب QtDesigner](https://www.youtube.com/watch?v=V1dzBR4B5J0&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=6&t=0s)
+  - [برمحه موقع للوظاىف بدجانجو ٣](https://www.youtube.com/watch?v=GVLrt9604vg&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=13&t=601s)
+  - [التعامل مع الداتابيز ببايثون](https://www.youtube.com/watch?v=0ZuTEmfe218&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=10&t=0s)
+  - [رفع موقع دجانجو لايف](https://www.youtube.com/watch?v=COX-1dopn14&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=8&t=0s)
+  - [برمحه تطبيق لتحميل الملفات والفيديوهات من اليوتيوب](https://www.youtube.com/watch?v=Q6g1GkbWW5g&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=9&t=0s)
   
 
 ### Vlogs
