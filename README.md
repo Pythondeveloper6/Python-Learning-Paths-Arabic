@@ -59,11 +59,13 @@ arabic python tutorials on YouTube , with learning paths
   - [برمحه تطبيق لتحميل الملفات والفيديوهات من اليوتيوب](https://www.youtube.com/watch?v=Q6g1GkbWW5g&list=PLtGOJcWqvbqeb9T7-qQLOthokZ4SrL8bf&index=9&t=0s)
   
 
-### Vlogs
-  - [VS Codes I Use For Python & Django ](https://www.youtube.com/watch?v=0UGsLOFW8IE&list=PLtGOJcWqvbqf_c2bKPhswbjsM3HJeURth&index=2&t=0s)
+### فيديوهات مهمه
+  - [اضافات بايثون ودجانجو في ال vscode ](https://www.youtube.com/watch?v=0UGsLOFW8IE&list=PLtGOJcWqvbqf_c2bKPhswbjsM3HJeURth&index=2&t=0s)
+  - [كيفيه مذاكره دجانجو من ال documentation ](https://www.youtube.com/watch?v=E2VJB_3gjYw&list=PLtGOJcWqvbqdL0-eCrNKVgEbGPhE868cf&index=2&t=0s)
+  - [شرح للدعم الخاص بدجانجو ](https://www.youtube.com/watch?v=kN6ln24DF8M&list=PLtGOJcWqvbqdL0-eCrNKVgEbGPhE868cf&index=3&t=0s)
   
   
-### Blog 
+### المدونه 
    - [Python List Destructing ](https://code4learn.teachable.com/blog/173947/list-destructing-python-arabic)
    - [Django Model Design Tips](https://code4learn.teachable.com/blog/170809/djang-models-advices-arabic)
    - [Django Learning Tips](https://code4learn.teachable.com/blog/170806/django-developers-advices-arabic)
