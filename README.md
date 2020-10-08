@@ -1,6 +1,5 @@
 # Python-Learning-Paths-Arabic
-arabic python tutorials on YouTube , with learning paths 
-
+شروحات عربيه لاحتراف بايثون 
 ### قبل بداء التعلم :
   - [كيفيه المذاكره من علي قناتي](https://www.youtube.com/watch?v=XMW2bR8M3-U&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=2&t=0s)
   - [خطه لتعلم بايثون في ٢٠ يوم بس](https://www.youtube.com/watch?v=_dwOLdEC3gY&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=9)
