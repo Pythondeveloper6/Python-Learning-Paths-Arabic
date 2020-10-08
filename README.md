@@ -3,7 +3,7 @@ arabic python tutorials on YouTube , with learning paths
 
 ### قبل بداء التعلم :
   - [كيفيه المذاكره من علي قناتي](https://www.youtube.com/watch?v=XMW2bR8M3-U&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=2&t=0s)
-  - [حطه لتعلم بايثون في ٢٠ يوم بس](https://www.youtube.com/watch?v=_dwOLdEC3gY&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=9)
+  - [خطه لتعلم بايثون في ٢٠ يوم بس](https://www.youtube.com/watch?v=_dwOLdEC3gY&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=9)
   - [كيفيه مذاكره البرمجه](https://www.youtube.com/watch?v=6CFrQqHUMak&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=5&t=0s)
   - [كيفيه تصطيب بايثون علي الجهاز الخاص بك](https://www.youtube.com/watch?v=2Cfd7qQcyTg&list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE&index=4&t=0s)
 
@@ -15,7 +15,7 @@ arabic python tutorials on YouTube , with learning paths
   - [اساسيات بايثون الجزء الرابع](https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e) : 
 
 
-### ايه اللي بعد الاساسيات في بايث،ن : 
+### ايه اللي بعد الاساسيات في بايثون : 
    - [ايه اللي بعد الاساسيات في بايثون](https://www.youtube.com/watch?v=oY6nRO7ftPk) 
 
 ### برمجه المواقع بدجانجو: 
@@ -67,7 +67,7 @@ arabic python tutorials on YouTube , with learning paths
   - [اضافات بايثون ودجانجو في ال vscode ](https://www.youtube.com/watch?v=0UGsLOFW8IE&list=PLtGOJcWqvbqf_c2bKPhswbjsM3HJeURth&index=2&t=0s)
   - [كيفيه مذاكره دجانجو من ال documentation ](https://www.youtube.com/watch?v=E2VJB_3gjYw&list=PLtGOJcWqvbqdL0-eCrNKVgEbGPhE868cf&index=2&t=0s)
   - [شرح للدعم الخاص بدجانجو ](https://www.youtube.com/watch?v=kN6ln24DF8M&list=PLtGOJcWqvbqdL0-eCrNKVgEbGPhE868cf&index=3&t=0s)
-  - [مذاكر برمجه لكن مش عارف تكتب ك،د ، ايه الحل ؟ ](https://www.youtube.com/watch?v=uDcgxyO-hto&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=0)
+  - [مذاكر برمجه لكن مش عارف تكتب كود ، ايه الحل ؟ ](https://www.youtube.com/watch?v=uDcgxyO-hto&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=0)
   - [لو لسه هتعلم بايثون تنصحني بمجال ايه ؟  ](https://www.youtube.com/watch?v=w65En8w7STA&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=13&t=0s)
   - [حاجات لازم تعملها قبل ما تبحث عن وظيفه لدجانجو ](https://www.youtube.com/watch?v=YznVobJJvXU&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=12&t=26s)
   - [ نظره معمقه علي ،ظاىف دجانجو في الوطن العربي ](https://www.youtube.com/watch?v=lAJzlpPe7bA&list=PLtGOJcWqvbqc59mZJOdTZUtBEXKKXYBUN&index=8&t=0s)
